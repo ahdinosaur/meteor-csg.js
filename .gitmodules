@@ -1,0 +1,3 @@
+[submodule "lib/csg.js"]
+	path = lib/csg.js
+	url = git://github.com/evanw/csg.js.git
