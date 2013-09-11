@@ -3,7 +3,7 @@
   "description": "constructive solid geometry on meshes using BSP trees in Javascript",
   "homepage": "http://evanw.github.com/csg.js/",
   "author": "Evan Wallace",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/ahdinosaur/meteor-csg.js",
   "packages": {}
 }
